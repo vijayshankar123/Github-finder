@@ -1,0 +1,4 @@
+Run NPM START to start the server in NODE
+I have created this application using react/redux
+All the components are saved in components folder
+Actions and reducers are stored in actions, reducers folder
